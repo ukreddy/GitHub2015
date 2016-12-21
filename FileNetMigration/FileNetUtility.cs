@@ -101,7 +101,7 @@ namespace FileNetMigration
 
         public ClientContext ConnectionSharePointOnline()
         {
-            string webUrl = "https://pepsico.sharepoint.com/sites/Insights/PepNet_Community";
+            string webUrl = "https://pepsico.sharepoint.com/sites/GlobalInsights";
             string userName = "sptest1.sptest1@pepsico.com";
             string password = "pass@word35";
 
